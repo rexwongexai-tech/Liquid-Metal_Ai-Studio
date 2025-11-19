@@ -1,0 +1,9 @@
+{
+  "name": "Copy of LiquidAgent Studio",
+  "description": "A comprehensive platform for building, managing, and interacting with Gemini-powered AI agents using text, voice, and search grounding.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
